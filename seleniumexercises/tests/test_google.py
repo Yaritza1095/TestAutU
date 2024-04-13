@@ -21,4 +21,6 @@ def test_search_panda():
     first_result_text = browser.find_element(By.CSS_SELECTOR, '.g').text.lower()
     assert 'panda' in first_result_text
 
+    
+
     browser.quit()
