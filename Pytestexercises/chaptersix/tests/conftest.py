@@ -3,7 +3,7 @@ import pytest
 from Pytestexercises.chaptersix.stuff.accum import Accumulator
 '''
 There are a few advanced tricks you can do with fixtures as well. 
-If you want to share fixtures between multiple test modules, you can move it to a module in the tests directory named conftest.py. 
+If you want to share fixtures between multiple test modules, you can move it to a module in the tests features named conftest.py. 
 conftest.py modules share test code for pytest. The name of the module is important. 
 Pytest will automatically pick up any fixtures here.
 '''

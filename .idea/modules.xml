@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TestAutU.iml" filepath="$PROJECT_DIR$/.idea/TestAutU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robot-framework-testautomationu-2022/.idea/robot-framework-testautomationu-2022.iml" filepath="$PROJECT_DIR$/../robot-framework-testautomationu-2022/.idea/robot-framework-testautomationu-2022.iml" />
     </modules>
   </component>
 </project>
